@@ -1,0 +1,74 @@
+{
+  "widgets": [
+    {
+      "id": 1,
+      "name": "Thing 1",
+      "longName": "Development Widget #1"
+    },
+    {
+      "id": 2,
+      "name": "Thing 2",
+      "longName": "Future Product, Second Iteration"
+    },
+    {
+      "id": 3,
+      "name": "Thing 3",
+      "longName": "Work In Progress part 3"
+    },
+    {
+      "id": 4,
+      "name": "Thing 4",
+      "longName": "Widget Four"
+    }
+  ],
+  "people": [
+    {
+      "id": 1,
+      "name": "Paul",
+      "deep": {
+        "property1": 1,
+        "property2": "two"
+      },
+      "job": "developer",
+      "status": "defeated",
+      "isInfected": true,
+      "hobbies": [
+        "beer",
+        "drums",
+        "mountain bikes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "deep": {
+        "property1": 1,
+        "property2": "two"
+      },
+      "job": "developer",
+      "status": "smiling",
+      "isInfected": false,
+      "hobbies": [
+        "beer",
+        "self flagellation",
+        "jui jitsu"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "deep": {
+        "property1": 1,
+        "property2": "two"
+      },
+      "job": "manager",
+      "status": "in a meeting",
+      "isInfected": true,
+      "hobbies": [
+        "mountain bikes",
+        "ukulele",
+        "building sample data"
+      ]
+    }
+  ]
+}
