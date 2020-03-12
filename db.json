@@ -26,6 +26,8 @@
       "id": 1,
       "disabled": false,
       "name": "Paul",
+      "dob": "01/02/2003",
+      "timestamp": "1968-02-03T02:31",
       "deep": {
         "property1": 1,
         "property2": "two"
@@ -43,6 +45,8 @@
       "id": 3,
       "disabled": false,
       "name": "Michael",
+      "dob": "01/02/2003",
+      "timestamp": "1968-02-03T02:31",
       "deep": {
         "property1": 1,
         "property2": "two"
@@ -60,6 +64,8 @@
       "id": 2,
       "disabled": false,
       "name": "John",
+      "dob": "01/02/2003",
+      "timestamp": "1968-02-03T02:31",
       "deep": {
         "property1": 1,
         "property2": "two"
@@ -77,6 +83,8 @@
       "id": 6,
       "disabled": true,
       "name": "Spear",
+      "dob": "01/02/2003",
+      "timestamp": "1968-02-03T02:31",
       "deep": {
         "property1": 1,
         "property2": "two"
@@ -93,24 +101,27 @@
     {
       "id": 4,
       "disabled": false,
-      "name": "Mike",
+      "name": "Matt",
+      "dob": "01/02/2003",
+      "timestamp": "1968-02-03T02:31",
       "deep": {
         "property1": 1,
-        "property2": "two"
+        "property2": "beans"
       },
-      "job": "qa",
-      "status": "smiling",
-      "isInfected": false,
+      "job": "developer",
+      "status": "handicapped",
+      "isInfected": true,
       "hobbies": [
         "mountain bikes",
-        "ukulele",
-        "building sample data"
+        "coronavirus"
       ]
     },
     {
       "id": 5,
       "disabled": false,
       "name": "Rora",
+      "dob": "01/02/2003",
+      "timestamp": "1968-02-03T02:31",
       "deep": {
         "property1": 1,
         "property2": "two"
