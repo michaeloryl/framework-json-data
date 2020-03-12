@@ -24,6 +24,7 @@
   "people": [
     {
       "id": 1,
+      "disabled": false,
       "name": "Paul",
       "deep": {
         "property1": 1,
@@ -39,23 +40,8 @@
       ]
     },
     {
-      "id": 2,
-      "name": "John",
-      "deep": {
-        "property1": 1,
-        "property2": "two"
-      },
-      "job": "developer",
-      "status": "smiling",
-      "isInfected": false,
-      "hobbies": [
-        "beer",
-        "self flagellation",
-        "jui jitsu"
-      ]
-    },
-    {
       "id": 3,
+      "disabled": false,
       "name": "Michael",
       "deep": {
         "property1": 1,
@@ -68,6 +54,73 @@
         "mountain bikes",
         "ukulele",
         "building sample data"
+      ]
+    },
+    {
+      "id": 2,
+      "disabled": false,
+      "name": "John",
+      "deep": {
+        "property1": 1,
+        "property2": "two"
+      },
+      "job": "developer",
+      "status": "smiling",
+      "isInfected": false,
+      "hobbies": [
+        "beer",
+        "running/self flagellation",
+        "jui jitsu"
+      ]
+    },
+    {
+      "id": 6,
+      "disabled": true,
+      "name": "Spear",
+      "deep": {
+        "property1": 1,
+        "property2": "two"
+      },
+      "job": "manager",
+      "status": "defeated",
+      "isInfected": true,
+      "hobbies": [
+        "beer",
+        "podcasts",
+        "offending people"
+      ]
+    },
+    {
+      "id": 4,
+      "disabled": false,
+      "name": "Mike",
+      "deep": {
+        "property1": 1,
+        "property2": "two"
+      },
+      "job": "qa",
+      "status": "smiling",
+      "isInfected": false,
+      "hobbies": [
+        "mountain bikes",
+        "ukulele",
+        "building sample data"
+      ]
+    },
+    {
+      "id": 5,
+      "disabled": false,
+      "name": "Rora",
+      "deep": {
+        "property1": 1,
+        "property2": "two"
+      },
+      "job": "developer",
+      "status": "smiling",
+      "isInfected": false,
+      "hobbies": [
+        "knitting",
+        "dogs"
       ]
     }
   ]
