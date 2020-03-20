@@ -34,6 +34,7 @@
       },
       "job": "developer",
       "status": "defeated",
+      "hasData": true,
       "isInfected": true,
       "hobbies": [
         "beer",
@@ -53,6 +54,7 @@
       },
       "job": "manager",
       "status": "in a meeting",
+      "hasData": false,
       "isInfected": true,
       "hobbies": [
         "mountain bikes",
@@ -72,6 +74,7 @@
       },
       "job": "developer",
       "status": "smiling",
+      "hasData": true,
       "isInfected": false,
       "hobbies": [
         "beer",
@@ -91,6 +94,7 @@
       },
       "job": "manager",
       "status": "defeated",
+      "hasData": false,
       "isInfected": true,
       "hobbies": [
         "beer",
@@ -110,6 +114,7 @@
       },
       "job": "developer",
       "status": "handicapped",
+      "hasData": true,
       "isInfected": true,
       "hobbies": [
         "mountain bikes",
@@ -128,6 +133,7 @@
       },
       "job": "developer",
       "status": "smiling",
+      "hasData": false,
       "isInfected": false,
       "hobbies": [
         "knitting",
