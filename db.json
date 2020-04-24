@@ -33,7 +33,7 @@
         "property2": "two"
       },
       "job": "developer",
-      "status": "defeated",
+      "status": "DEFEATED",
       "hasData": true,
       "isInfected": true,
       "hobbies": [
@@ -53,7 +53,7 @@
         "property2": "two"
       },
       "job": "manager",
-      "status": "in a meeting",
+      "status": "MEETING",
       "hasData": false,
       "isInfected": true,
       "hobbies": [
@@ -73,7 +73,7 @@
         "property2": "two"
       },
       "job": "developer",
-      "status": "smiling",
+      "status": "SMILING",
       "hasData": true,
       "isInfected": false,
       "hobbies": [
@@ -93,7 +93,7 @@
         "property2": "two"
       },
       "job": "manager",
-      "status": "defeated",
+      "status": "DEFEATED",
       "hasData": false,
       "isInfected": true,
       "hobbies": [
@@ -113,7 +113,7 @@
         "property2": "beans"
       },
       "job": "developer",
-      "status": "handicapped",
+      "status": "HANDICAPPED",
       "hasData": true,
       "isInfected": true,
       "hobbies": [
@@ -132,7 +132,7 @@
         "property2": "two"
       },
       "job": "developer",
-      "status": "smiling",
+      "status": "SMILING",
       "hasData": false,
       "isInfected": false,
       "hobbies": [
